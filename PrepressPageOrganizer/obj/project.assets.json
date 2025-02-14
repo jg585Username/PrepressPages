@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jonathanguan/RiderProjects/PrepressPageOrganizer/PrepressPageOrganizer/PrepressPageOrganizer.csproj",
+      "projectUniqueName": "/Users/jonathanguan/Documents/GitHub/PrepressPages/PrepressPageOrganizer/PrepressPageOrganizer.csproj",
       "projectName": "PrepressPageOrganizer",
-      "projectPath": "/Users/jonathanguan/RiderProjects/PrepressPageOrganizer/PrepressPageOrganizer/PrepressPageOrganizer.csproj",
+      "projectPath": "/Users/jonathanguan/Documents/GitHub/PrepressPages/PrepressPageOrganizer/PrepressPageOrganizer.csproj",
       "packagesPath": "/Users/jonathanguan/.nuget/packages/",
-      "outputPath": "/Users/jonathanguan/RiderProjects/PrepressPageOrganizer/PrepressPageOrganizer/obj/",
+      "outputPath": "/Users/jonathanguan/Documents/GitHub/PrepressPages/PrepressPageOrganizer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jonathanguan/.nuget/NuGet/NuGet.Config"
