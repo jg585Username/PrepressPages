@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrepressPageOrganizer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7709c3b36da9399bf408e47c37b802752d86c22")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b665c6066c4da3e4401c9017f09784e59cc9439")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrepressPageOrganizer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrepressPageOrganizer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
