@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrepressProgramBest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+aa0b6d2ff50ae467f825a05dc1c97b9f4a01a911")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+1df46fb35ae00c47872e413b1b780c8632026ea9")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrepressProgramBest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrepressProgramBest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
